@@ -14,10 +14,10 @@ public class VerificaCombo {
             if(servico.equals("movel")){
               movelContratado = true;
             }
-            if(servico.equals("banda larga"){
+            if(servico.equals("banda larga")){
               bandaLargaContratada = true;
             }
-            if(servico.equals("tv"){
+            if(servico.equals("tv")){
               tvContratada = true;
             }
         }
